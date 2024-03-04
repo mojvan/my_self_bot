@@ -1,5 +1,6 @@
-from pyrogram import Client
+﻿from pyrogram import Client
 import pyromod.listen
+
 
 plugins = dict(root="plugins")
 
